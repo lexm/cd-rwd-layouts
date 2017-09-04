@@ -33,3 +33,6 @@ section{
   margin-left: 2%;
   margin-right: 2%;
 }
+@media only screen and (max-width: 905px){
+  nav{ display: none; }
+}
