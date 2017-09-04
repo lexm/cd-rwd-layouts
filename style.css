@@ -1,3 +1,7 @@
+*{
+  margin: 5px 0px;
+  padding: 0;
+}
 body{
   width: 90%;
   margin-left: auto;
@@ -6,4 +10,25 @@ body{
 }
 p, li{
   font-family: Alial, Helvetica, sans-serif;
+}
+header, li{
+  background-color: #dddddd;
+}
+header{
+  padding: 10px;
+}
+h1, h2{
+  margin-left: 10px;
+  padding: 5px;
+}
+li{
+  display: inline-block;
+  border: 1px solid gray;
+}
+section{
+  display: inline-block;
+  width: 20%;
+  vertical-align: top;
+  margin-left: 2%;
+  margin-right: 2%;
 }
