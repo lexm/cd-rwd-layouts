@@ -24,6 +24,7 @@ h1, h2{
 li{
   display: inline-block;
   border: 1px solid gray;
+  padding: 5px;
 }
 section{
   display: inline-block;
